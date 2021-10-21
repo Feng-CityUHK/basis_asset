@@ -30,3 +30,9 @@ We provided a toolkit to evaluate and compare two sets of portfolios, in asset p
         }
         ```
 - Output: Tables and Figures in the paper.
+
+## Miscilaneous
+
+- Data download source: 
+    -   [Ken French Website](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)
+    -   [Q Factors Website](http://global-q.org/factors.html)
