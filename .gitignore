@@ -131,3 +131,4 @@ dmypy.json
 # xinhe97 add
 # /data
 tmp.py
+*.DS_Store
