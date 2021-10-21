@@ -18,8 +18,14 @@ We provided a toolkit to evaluate and compare two sets of portfolios, in asset p
 
 - Input:
     - pd.DataFrame(): 
-        - A group of assets: P1
-        - Another group of assets: P2
+        - Portfolios 
+        ```
+        P= {
+            'ME10': pd.DataFrame(),
+            'FF25': pd.DataFrame(),
+            ...
+        }
+        ```
     - Dict{}
         - Factors Models
         ```
