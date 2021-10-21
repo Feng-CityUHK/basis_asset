@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # xinhe97 add
-/data
+# /data
+tmp.py
